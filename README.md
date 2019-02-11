@@ -8,3 +8,7 @@ The software package generation module allows you to perform the following actio
 3. automatic generation of information packet level (Ethernet 802.3) - the MAC address of the sender and the MAC address of the recipient at the specified ip-addresses;<br>
 4. the ability to enter incorrect data in the protocol fields (length, checksum, etc.);<br>
 5. generate sequences of generated network packets and send data packets on a user-selected interface.<br>
+
+Below is the interface of the developed program.
+
+![alt text](screens/1.png)
