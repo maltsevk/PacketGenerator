@@ -12,4 +12,4 @@ The software package generation module allows you to perform the following actio
 Below is the interface of the developed program.
 
 
-<img src="screens/1.png" width="200" height="50"/>
+<img src="screens/1.png" />
